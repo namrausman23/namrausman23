@@ -62,9 +62,9 @@ A snapshot of my contributions across public and private repositories.
 
 I'm always interested in discussing new project ideas or roles. Feel free to reach out!
 
-* **LinkedIn**: [namrausman23](https://www.linkedin.com/in/namrausman23/)
-* **Email**: [namrausman23@gmail.com](namrausman23@gmail.com)
-
+- *LinkedIn:* [namrausman23](https://www.linkedin.com/in/namrausman23/)
+- *Email:* namrausman23@gmail.com
+  
 <p align="center">
     <small>Thank you for stopping by! Happy coding. ✨</small>
 </p>
