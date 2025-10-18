@@ -18,7 +18,7 @@ I leverage a dual-stack approach, covering both data-intensive computing and sca
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,nodejs,express,mongodb,react,git,webpack,mysql" alt="Technology Stack Icons" />
     <br>
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,vscode,linux,docker,aws,gcp,nlp,ai,dl" alt="Data Science and Tooling Icons" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,vscode,linux,docker,aws,gcp,ml,dl" alt="Data Science and Tooling Icons" />
 </p>
 
 | Core Competencies | Key Tools & Libraries |
