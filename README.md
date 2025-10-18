@@ -60,6 +60,7 @@ A snapshot of my contributions across public and private repositories.
              width="70%"/>
     </a>
 </p>
+
 ---
 
 ## 📫 Let's Connect!
