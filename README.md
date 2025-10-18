@@ -53,11 +53,6 @@ A snapshot of my contributions across public and private repositories.
              style="margin-right: 10px;"/>
     </a>
     
-    <a href="https://github.com/namrausman23">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrausman23&layout=compact&theme=dark" 
-             alt="Top Languages" 
-             width="48%"/>
-    </a>
 </p>
 
 <p align="center">
