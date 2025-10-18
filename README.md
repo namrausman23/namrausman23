@@ -25,7 +25,7 @@ I leverage a dual-stack approach, covering both data-intensive computing and sca
 | :--- | :--- |
 | **Data Science & ML** | **Python**, **Pandas**, **NumPy**, Scikit-learn, **TensorFlow**, **PyTorch**, Dataiku |
 | **Web Development** | **JavaScript**, **Node.js**, **Express.js**, **MongoDB**, **HTML**, **CSS**, Webpack |
-| **Foundational & Other** | **C/C++**, **SQL**, Git, NLP, Deep Learning |
+| **Foundational & Other** | **Java**, **SQL**, Git, NLP, Deep Learning |
 
 ---
 
