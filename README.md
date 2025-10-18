@@ -47,12 +47,19 @@ A snapshot of my contributions across public and private repositories.
 
 <p align="center">
     <a href="https://github.com/namrausman23">
-        <img src="https://github-readme-streak-stats.demolab.com/?user=namrausman23&theme=dark&hide_border=true" 
-             alt="GitHub Streak Stats" 
-             width="97%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=namrausman23&show_icons=true&theme=dark&include_all_commits=true&count_private=true" 
+             alt="Namra Usman's GitHub Stats" 
+             width="70%"/>
     </a>
 </p>
 
+<p align="center">
+    <a href="https://github.com/namrausman23">
+        <img src="https://github-readme-streak-stats.demolab.com/?user=namrausman23&theme=dark&hide_border=true" 
+             alt="GitHub Streak Stats" 
+             width="70%"/>
+    </a>
+</p>
 ---
 
 ## 📫 Let's Connect!
