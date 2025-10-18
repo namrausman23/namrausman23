@@ -11,14 +11,12 @@
 
 ---
 
----
-
 ## 🛠 My Toolkit: Languages & Frameworks
 
 I leverage a dual-stack approach, covering both data-intensive computing and scalable web development.
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,c,java,js,html,css,nodejs,express,mongodb,react,git,webpack,mysql" alt="Technology Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,nodejs,express,mongodb,react,git,webpack,mysql" alt="Technology Stack Icons" />
     <br>
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,vscode,linux,docker,aws,gcp,nlp,ai,dl" alt="Data Science and Tooling Icons" />
 </p>
@@ -37,10 +35,9 @@ Here are the repositories that best represent my current focus and skills:
 
 | Project Name | Primary Focus | Status & Contribution |
 | :--- | :--- | :--- |
-| **[Portfolio]**(`https://github.com/namrausman23/Portfolio`) | A showcase site demonstrating my full-stack skills, projects, and professional details. | Tech Stack: React, Next.js (or HTML/CSS/JS), fully responsive design. |
-| **[ML Project]**(`https://github.com/namrausman23/movies-recommender-system`) | Content-based Movie Recommendation System using NLP techniques on movie metadata. | Developed the core similarity calculation logic and data cleaning pipeline. |
-| **[Grocery Wallah]**(`https://github.com/namrausman23/Grocery-Wallah`) | A full-stack E-commerce platform for grocery shopping with user authentication. | Implemented secure user authentication with JWT and managed the MongoDB database schemas. |
-
+| **[Portfolio]**([https://github.com/namrausman23/Portfolio](https://github.com/namrausman23/Portfolio)) | A showcase site demonstrating my full-stack skills, projects, and professional details. | **Tech Stack:** React, Next.js (or HTML/CSS/JS), fully responsive design. |
+| **[ML Project: Movies Recommender]**([https://github.com/namrausman23/movies-recommender-system](https://github.com/namrausman23/movies-recommender-system)) | Content-based Movie Recommendation System using NLP techniques on movie metadata. | Developed the core similarity calculation logic and data cleaning pipeline. |
+| **[Grocery Wallah]**([https://github.com/namrausman23/Grocery-Wallah](https://github.com/namrausman23/Grocery-Wallah)) | A full-stack E-commerce platform for grocery shopping with user authentication. | Implemented secure user authentication with JWT and managed the MongoDB database schemas. |
 
 ---
 
@@ -49,13 +46,26 @@ Here are the repositories that best represent my current focus and skills:
 A snapshot of my contributions across public and private repositories.
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=namrausman23&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Namra Usman's GitHub Stats" />
+    <a href="https://github.com/namrausman23">
+        <img src="https://github-readme-stats.vercel.app/api?username=namrausman23&show_icons=true&theme=dark&include_all_commits=true&count_private=true" 
+             alt="Namra Usman's GitHub Stats" 
+             width="48%" 
+             style="margin-right: 10px;"/>
+    </a>
     
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrausman23&layout=compact&theme=dark" alt="Top Languages" />
+    <a href="https://github.com/namrausman23">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrausman23&layout=compact&theme=dark" 
+             alt="Top Languages" 
+             width="48%"/>
+    </a>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.demolab.com/?user=namrausman23&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+    <a href="https://github.com/namrausman23">
+        <img src="https://github-readme-streak-stats.demolab.com/?user=namrausman23&theme=dark&hide_border=true" 
+             alt="GitHub Streak Stats" 
+             width="97%"/>
+    </a>
 </p>
 
 ---
@@ -64,7 +74,7 @@ A snapshot of my contributions across public and private repositories.
 
 I'm always interested in discussing new project ideas or roles. Feel free to reach out!
 
-* **LinkedIn**: `https://www.linkedin.com/in/namrausman23/` 
+* **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/namrausman23/)
 * **Email**: `namrausman23@gmail.com`
 
 <p align="center">
