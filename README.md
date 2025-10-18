@@ -35,7 +35,7 @@ Here are the repositories that best represent my current focus and skills:
 
 | Project Name | Primary Focus | Status & Contribution |
 | :--- | :--- | :--- |
-| **[Portfolio]**([https://github.com/namrausman23/Portfolio](https://github.com/namrausman23/Portfolio)) | A showcase site demonstrating my full-stack skills, projects, and professional details. | **Tech Stack:** React, Next.js (or HTML/CSS/JS), fully responsive design. |
+| **[Portfolio]**([https://github.com/namrausman23/Portfolio](https://github.com/namrausman23/Portfolio)) | A showcase site demonstrating my full-stack skills, projects, and professional details. | Tech Stack: React, Next.js (or HTML/CSS/JS), fully responsive design. |
 | **[ML Project: Movies Recommender]**([https://github.com/namrausman23/movies-recommender-system](https://github.com/namrausman23/movies-recommender-system)) | Content-based Movie Recommendation System using NLP techniques on movie metadata. | Developed the core similarity calculation logic and data cleaning pipeline. |
 | **[Grocery Wallah]**([https://github.com/namrausman23/Grocery-Wallah](https://github.com/namrausman23/Grocery-Wallah)) | A full-stack E-commerce platform for grocery shopping with user authentication. | Implemented secure user authentication with JWT and managed the MongoDB database schemas. |
 
