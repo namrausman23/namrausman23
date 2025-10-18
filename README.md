@@ -63,6 +63,8 @@ A snapshot of my contributions across public and private repositories.
 
 ---
 
+---
+
 ## 📫 Let's Connect!
 
 I'm always interested in discussing new project ideas or roles. Feel free to reach out!
