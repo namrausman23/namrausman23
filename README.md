@@ -41,6 +41,7 @@ Here are the repositories that best represent my current focus and skills:
 
 ---
 
+---
 ## 📈 Activity and Achievements
 
 A snapshot of my contributions across public and private repositories.
@@ -52,14 +53,7 @@ A snapshot of my contributions across public and private repositories.
              width="70%"/>
     </a>
 </p>
-
-<p align="center">
-    <a href="https://github.com/namrausman23">
-        <img src="https://github-readme-streak-stats.demolab.com/?user=namrausman23&theme=dark&hide_border=true" 
-             alt="GitHub Streak Stats" 
-             width="70%"/>
-    </a>
-</p>
+--->
 
 ---
 
