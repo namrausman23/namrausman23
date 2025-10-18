@@ -42,6 +42,7 @@ Here are the repositories that best represent my current focus and skills:
 ---
 
 ---
+
 ## 📈 Activity and Achievements
 
 A snapshot of my contributions across public and private repositories.
@@ -53,7 +54,6 @@ A snapshot of my contributions across public and private repositories.
              width="70%"/>
     </a>
 </p>
---->
 
 ---
 
@@ -63,7 +63,7 @@ A snapshot of my contributions across public and private repositories.
 
 I'm always interested in discussing new project ideas or roles. Feel free to reach out!
 
-* **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/namrausman23/)
+* **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/namrausman23/)
 * **Email**: `namrausman23@gmail.com`
 
 <p align="center">
